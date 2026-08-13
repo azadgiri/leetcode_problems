@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
