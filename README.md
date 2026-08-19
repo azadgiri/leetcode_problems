@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/azadgiri/leetcode_problems/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/azadgiri/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/azadgiri/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/azadgiri/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
