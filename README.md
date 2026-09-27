@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/azadgiri/leetcode_problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/azadgiri/leetcode_problems/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
