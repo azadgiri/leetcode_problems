@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //using dutch flag algorithm (3 pointer algo.)
     void sortColors(vector<int>& nums) {
         int n=nums.size();
         int low=0;
