@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/azadgiri/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/azadgiri/leetcode_problems/tree/master/0905-sort-array-by-parity) |
