@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/azadgiri/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/azadgiri/leetcode_problems/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/azadgiri/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -94,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/azadgiri/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/azadgiri/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/azadgiri/leetcode_problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
