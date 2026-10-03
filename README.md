@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/azadgiri/leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [1025-divisor-game](https://github.com/azadgiri/leetcode_problems/tree/master/1025-divisor-game) |
 ## Math
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/azadgiri/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/azadgiri/leetcode_problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/azadgiri/leetcode_problems/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
