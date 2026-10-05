@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/azadgiri/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/azadgiri/leetcode_problems/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
