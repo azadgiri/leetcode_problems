@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/azadgiri/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/azadgiri/leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/azadgiri/leetcode_problems/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/azadgiri/leetcode_problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/azadgiri/leetcode_problems/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/azadgiri/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/azadgiri/leetcode_problems/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
