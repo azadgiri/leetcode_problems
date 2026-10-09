@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/azadgiri/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/azadgiri/leetcode_problems/tree/master/0119-pascals-triangle-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/azadgiri/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/azadgiri/leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/azadgiri/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/azadgiri/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/azadgiri/leetcode_problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/azadgiri/leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/azadgiri/leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/azadgiri/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/azadgiri/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0867-transpose-matrix) |
 ## Simulation
