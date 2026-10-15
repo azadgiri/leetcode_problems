@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/azadgiri/leetcode_problems/tree/master/0905-sort-array-by-parity) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/azadgiri/leetcode_problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/azadgiri/leetcode_problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/azadgiri/leetcode_problems/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/azadgiri/leetcode_problems/tree/master/1025-divisor-game) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/azadgiri/leetcode_problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/azadgiri/leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/azadgiri/leetcode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
