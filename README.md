@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/azadgiri/leetcode_problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/azadgiri/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/azadgiri/leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/azadgiri/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/azadgiri/leetcode_problems/tree/master/0905-sort-array-by-parity) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/azadgiri/leetcode_problems/tree/master/0861-score-after-flipping-matrix) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/azadgiri/leetcode_problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
