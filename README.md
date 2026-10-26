@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/azadgiri/leetcode_problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/azadgiri/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/azadgiri/leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/azadgiri/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -162,5 +163,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/azadgiri/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/azadgiri/leetcode_problems/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/azadgiri/leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
