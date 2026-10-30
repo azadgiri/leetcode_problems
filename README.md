@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/azadgiri/leetcode_problems/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/azadgiri/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/azadgiri/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/azadgiri/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/azadgiri/leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/azadgiri/leetcode_problems/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/azadgiri/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/azadgiri/leetcode_problems/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
